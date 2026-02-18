@@ -6,7 +6,7 @@ Three-stage interview framework for a Simulation Research Engineer (Routing) rol
 
 This past week, I’ve been building out a structured interview process for a **Simulation Research Engineer (Routing)** role, in Fulfilment Simulations teams. 
 
-Working closely with the hiring team, we designed a three-stage process that assesses open-ended problem solving, analytical depth, statistical reasoning, and communication skills — while maintaining fairness, transparency, and consistency throughout.
+Working closely with the hiring team, we designed a three-stage process that assesses open-ended problem solving, analytical depth, statistical reasoning, and communication skills, while maintaining fairness, transparency, and consistency throughout.
 
 The focus is not just on technical knowledge, but on demonstrable reasoning ability in ambiguous, real-world scenarios.
 
